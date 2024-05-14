@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "107259159596",
+    "project_id": "shayari-60191",
+    "storage_bucket": "shayari-60191.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107259159596:android:55209012a9fb0d94301d89",
+        "android_client_info": {
+          "package_name": "com.robin.shayad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcjzRjrPxQ-iJYKDVkox044gXgFAOEUDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107259159596:android:7d8d9ab9ee1806df301d89",
+        "android_client_info": {
+          "package_name": "com.robin.shayri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcjzRjrPxQ-iJYKDVkox044gXgFAOEUDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

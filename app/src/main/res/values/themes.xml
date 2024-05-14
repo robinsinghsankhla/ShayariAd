@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ShayAd" parent="Theme.Material3.DayNight.NoActionBar">
+        <!--         Customize your light theme here. -->
+        <item name="colorPrimary">@color/heart</item>
+    </style>
+
+    <style name="Theme.ShayAd" parent="Base.Theme.ShayAd" />
+</resources>
